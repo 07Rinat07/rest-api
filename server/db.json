@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "name": "Alex",
+      "salary": 77000,
+      "active": true,
+      "role": "web developer",
+      "id": 1
+    },
+    {
+      "name": "Vladimir",
+      "salary": 77000,
+      "active": false,
+      "role": "web developer",
+      "id": 2
+    },
+    {
+      "name": "Ruslan",
+      "salary": 250000,
+      "active": false,
+      "role": "fulL stack developer",
+      "id": 3
+    },
+    {
+      "name": "Misha",
+      "salary": 550000,
+      "active": true,
+      "role": "manager",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "employeeId": 1,
+      "message": "Hello world"
+    }
+  ]
+}
